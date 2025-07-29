@@ -21,5 +21,5 @@ Monday learnings and Implementation:
 
 1. Langchain and Langgraph documentation of Memory.
 
-Ideas:
-a. 
+After a lot of planning and research today I concluded to use the following architecture in the architecture.png. 
+My whole code will be in this architecture.
