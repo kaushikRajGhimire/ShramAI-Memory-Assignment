@@ -1,6 +1,8 @@
 # Conversational AI Service with Memory Management
-
-
+'''
+Link of Google Docs with all the API Endpoint responses screenshots in Swagger UI, Redis and MongoDB updates:
+https://docs.google.com/document/d/1ED7NIz7XrHzCIxCPvq6iE0XahZK0_ZNZY-2OWib3NcI/edit?usp=sharing
+'''
 A sophisticated conversational AI service that mimics human-like memory patterns with both short-term and long-term memory capabilities, complete with chat history management and user preference controls.
 
 ## 🎯 Project Overview
