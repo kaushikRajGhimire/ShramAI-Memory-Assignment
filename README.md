@@ -1,6 +1,5 @@
 # Conversational AI Service with Memory Management
 
-![Project Demo](./demo-video.webm) <!-- Replace with actual video file name -->
 
 A sophisticated conversational AI service that mimics human-like memory patterns with both short-term and long-term memory capabilities, complete with chat history management and user preference controls.
 
@@ -13,8 +12,9 @@ This project implements a production-ready conversational AI system that can:
 - Provide context-aware responses using memory and web search
 
 ## 🏗️ Architecture
-
-![Architecture Diagram](./architecture-diagram.png)
+<div align="center">
+  <img src="./architecure-diagram.png" alt="Architecture Diagram" width="800"/>
+</div>
 
 The system is designed to mirror human conversation patterns where we remember recent interactions clearly and retain only important points from older conversations.
 
@@ -131,19 +131,6 @@ docker-compose up --build
 curl http://localhost:8000/health
 ```
 
-## 📊 Demo & Screenshots
-
-### System Architecture
-![Architecture Overview](./architecture-diagram.png)
-
-### API Responses Demo
-![API Demo](./api-demo-screenshot.png) <!-- Add actual screenshot -->
-
-### Memory Management in Action
-![Memory Management](./memory-demo-screenshot.png) <!-- Add actual screenshot -->
-
-### Video Walkthrough
-[Watch Full Demo Video](./demo-video.mp4) <!-- Replace with actual video file -->
 
 ## 🔮 Future Enhancements
 
