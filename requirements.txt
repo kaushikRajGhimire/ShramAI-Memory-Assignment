@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+redis
+motor
+pymongo
+langchain
+langchain-google-genai
+langgraph
+tavily-python
+python-dotenv
+httpx
